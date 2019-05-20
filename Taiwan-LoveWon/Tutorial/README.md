@@ -12,3 +12,14 @@
 如同你所知，彩虹是一個多色漸層
 
 ## HSV > RGB
+
+<script src="mermaid.full.min.js"></script>
+Then define your chart like this:
+
+<div class="mermaid">
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+</div>
