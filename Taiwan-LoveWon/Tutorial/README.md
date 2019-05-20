@@ -13,22 +13,13 @@
 
 ## HSV > RGB
 
-tes
-
-
-<script src="/js/mermaid.full.min.js"></script>
-Then define your chart like this:
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/7.1.0/mermaid.min.js"></script>
 
 <div class="mermaid">
-graph TD
-    A(Java)
-    B(Java se)
-    C(Java ee)
-    D(Java me)
-    A-.->B
-    A-.->C
-    A-.->D
-    classDef className fill:#f9f,stroke:#333,stroke-width:4px;
-    class B,C,D className;
-    style A fill:#ccf,stroke:#f66,stroke-width:2px,stroke-dasharray: 5, 5
+graph LR
+    Start --> Stop
+	Start --> Sto
+	Stop --> SET2
 </div>
+
+TEST
