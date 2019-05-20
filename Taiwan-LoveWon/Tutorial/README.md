@@ -13,7 +13,7 @@
 
 ## HSV > RGB
 
-<script src="mermaid.full.min.js"></script>
+<script src="/js/mermaid.full.min.js"></script>
 Then define your chart like this:
 
 <div class="mermaid">
